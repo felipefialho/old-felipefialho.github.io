@@ -30,8 +30,8 @@ First of all, install the dependencies to run this boilerplate.
 
 ```sh
 # Clone this repository
-$ git clone git@github.com:LFeh/lfeh.github.io.git
-$ cd lfeh.github.io/harp/
+$ git clone git@github.com:felipefialho/felipefialho.github.io.git
+$ cd felipefialho.github.io/harp/
 
 # install gulp globally
 $ npm install -g gulp
@@ -108,4 +108,4 @@ To view a reporter of CSS files, use a `npm run reporter` command.
 
 ## License
 
-[MIT License](http://felipefialho.mit-license.org/) © Luiz Felipe Tartarotti Fialho
+[MIT License](http://felipefialho.mit-license.org/) © Felipe Fialho
